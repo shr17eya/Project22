@@ -147,5 +147,3 @@ exact match on the full expected set of `(field, code)` pairs. The
 weaker version was the AI's first draft; the stronger one is what's
 submitted.
 
-The full implementation was reviewed line by line and is understood well
-enough to explain and defend any part of it.
